@@ -4,6 +4,7 @@ I'm Max (online known as Mage), a software engineer passionate about AI, game de
 ## 🚀 Notable Projects
 
 ### 🏆 Public Repositories
+- [**ResumeWorkflowTool](https://github.com/MageOfficial/ResumeWorkflowTool) - Use one LaTex Resume and tag info to form new resumes. (JavaScript, MIT License)
 - [**nDimReversi**](https://github.com/MageOfficial/nDimReversi) - Play Reversi in n-dimensions online (JavaScript, MIT License)
 - [**Monopoly-chess**](https://github.com/MageOfficial/Monopoly-Chess) - Chess + monopoly! (JavaScript, MIT License)
 - [**reversichess**](https://github.com/MageOfficial/reversichess) - Chess with Reversi mechanics (JavaScript, MIT License)
